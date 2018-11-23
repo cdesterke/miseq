@@ -52,6 +52,7 @@ UPTIME7=`uptime`
 rm aligned.sam
 rm aligned.sorted.bam
 rm markedRG.bam
+rm markedRG.bai
 rm marked.bam
 rm myeloid.bam
 
@@ -109,6 +110,7 @@ rm myeloidQ30.bam
 rm myeloidQ30.bam.bai
 rm marked.bam.list
 rm marked.realigned.bam
+rm marked.realigned.bai
 rm fixed.bam
 rm recaldata.table
 rm recal.bam
